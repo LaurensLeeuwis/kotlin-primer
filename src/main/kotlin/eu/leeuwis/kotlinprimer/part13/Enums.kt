@@ -11,6 +11,7 @@ fun handleState(appState: AppState){
         AppState.ERROR -> println("Oopsie..")
         AppState.RESULT -> println("Result!!")
         AppState.LOADING -> println("Still loading")
+//        else -> println("something else?")
     }
 }
 
