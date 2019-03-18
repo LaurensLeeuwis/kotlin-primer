@@ -1,4 +1,4 @@
-package eu.leeuwis.kotlinprimer.part13
+package eu.leeuwis.kotlinprimer.part10
 
 data class FirstType(val amount : Int)
 data class SecondType(val text : String)

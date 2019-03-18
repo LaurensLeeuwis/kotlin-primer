@@ -2,7 +2,7 @@ package eu.leeuwis.kotlinprimer.part12;
 
 public class Java {
 
-    public String thisIsJava(){
+    public String thisIsJava() {
         return "I am Java";
     }
 

@@ -1,8 +1,8 @@
 package eu.leeuwis.kotlinprimer.part02
 
 fun main() {
-    val greet = "Hello"
-    var subject = "Brain bits"
+    val greet : String = "Hello"
+    var subject : String = "Brain bits"
 
     println(greet + " " + subject + " !!")
 

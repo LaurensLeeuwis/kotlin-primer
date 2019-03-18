@@ -1,7 +1,7 @@
 package eu.leeuwis.kotlinprimer.part07
 
 fun slowFunction(): String {
-    Thread.sleep(2000)
+    Thread.sleep(3000)
     return "Slow stuff"
 }
 
